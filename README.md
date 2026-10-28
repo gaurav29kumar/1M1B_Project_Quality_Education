@@ -2,8 +2,6 @@
 
 GEdu Learner is a web-based AI study companion that helps learners create a topic-focused study packet. A learner enters a topic, subject/domain, education level, and preferred language; the application requests generated learning content from a Python backend and presents it through a guided study workflow.
 
-> **Project status:** The uploaded source shows a React frontend and a FastAPI backend. Some backend features depend on external API credentials and network access. The repository files provided do not include the frontend package manifest, Python dependency file, CSS files, or a deployment configuration, so setup instructions below identify the expected dependencies and note where project-specific details may need adjustment.
-
 ## Contents
 
 - [Features](#features)
